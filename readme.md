@@ -12,7 +12,8 @@ Follow me on Twitter ([Mike Felch - @ustayready](https://twitter.com/ustayready)
 
  * Uses an OpenAI API key instead of fighting other users on the web interface
  * Set the OpenAI API key in an environment variable (OPENAI_API_KEY) or as a flag
- * Built-in clear and quit function
+ * Just input `clear` to clear the terminal
+ * Just input `quit` to exit the client back to the terminal
 
 ## Disclaimer ##
  * I'm not responsible for your ChatGPT addiction.
